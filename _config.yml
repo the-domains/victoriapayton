@@ -1,0 +1,14 @@
+layout_spectrum: 0.2352445
+color:
+  saturation: 0.6762226
+  brandStrength: 0.3895447
+  lightness: 0.1593592
+  brandColors:
+    - '#FFFFFF'
+    - '#403B39'
+    - '#928887'
+    - '#429BE0'
+    - '#EB54AB'
+  rhythmicContrast: 0.3937605
+typography_spectrum: 0.4991568
+name: VictoriaPayton
